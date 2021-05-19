@@ -1,0 +1,8 @@
+name: Heal
+author: DoktorPrank
+version: 1.0.0
+main: de.wap.heal.main.Main
+
+commands:
+   heal:
+      description: Du kannst dich oder andere heilen!
